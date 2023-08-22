@@ -1,0 +1,1 @@
+Git Flow is a branching model that provides a structured approach to managing branches and releases in a Git repository.
