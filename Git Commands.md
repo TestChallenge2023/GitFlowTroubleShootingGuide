@@ -8,10 +8,15 @@ Create a new branch: git checkout -b new-branch-name
 
 Switch to an existing branch: git checkout branch-name
 
-## 3. Viewing Branches:
+## 3. Viewing Branches
+
+
+
+
+:
 
 List all branches: git branch
-List remote branches: git branch -r
+List remote branches: git branch -Rrrr
 List all branches (local and remote): git branch -a
 
 ## 4. Committing Changes to a Branch:

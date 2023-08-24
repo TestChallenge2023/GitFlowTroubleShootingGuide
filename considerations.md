@@ -4,7 +4,10 @@ When working with Git branches, there are several considerations to keep in mind
 Choose descriptive and meaningful names for your branches. This makes it easier for you and your team to understand the purpose of each branch.
 Consider using prefixes like "feature/", "bugfix/", "release/", or "hotfix/" to indicate the type of branch.
 
-2. Branch Scope:
+2. Branch Scope
+
+
+:
 Keep each branch focused on a specific task, feature, or bug fix. Avoid combining multiple unrelated changes in a single branch.
 
 3. Branch Lifespan:
