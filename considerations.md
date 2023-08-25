@@ -92,4 +92,4 @@ Understand the differences between rebasing and merging and choose the approach 
 Rebasing can result in a cleaner history but requires more care.
 By considering these aspects, you can make the most of Git's branching capabilities and maintain a well-organized, collaborative, and efficient development process.
 
-- [4. Git Commands](Git-Commands.md)
+- [4. Git Commands](GitCommands.md)
