@@ -42,13 +42,13 @@ After successfully resolving conflicts and pushing the changes, thoroughly test 
 
 ## Quick Links
 
-- [Readme](../README.md)
-- [1. GitFlow Introduction](Git-Flow-Introduction.md)
-- [2. Main strategies](Main-strategies.md)
+- [Readme](README.md)
+- [1. GitFlow Introduction](GitFlowIntroduction.md)
+- [2. Main strategies](Mainstrategies.md)
 - [3. Considerations](considerations.md)
-- [4. Git Commands](Git-Commands.md)
+- [4. Git Commands](GitCommands.md)
 - [5. Feature branch merge conflict](featureBranchMergeConflict.md)
-- [6. Long runnin feature branches](long-runninFeatureBranches.md)
+- [6. Long runnin feature branches](longrunninFeatureBranches.md)
 - [7. Hotfix](mergingHotFixintoDevelo.md)
 - [8. Release branch bugs](releaseBranchBugs.md)
 - [9. Release Stagnation](releaseStagnation.md)
