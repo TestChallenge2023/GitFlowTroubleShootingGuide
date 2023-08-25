@@ -2,6 +2,8 @@
 
 In this repository you can find a complete guide for using Git flow branching strategy 🧑‍🚀
 
+- [View the branches on git kraken](gitKraken.pdf)
+- [View the branches on git graph](gitGraph.pdf)
 - [1. GitFlow Introduction](1.GitFlowIntroduction.md)
 - [2. Main strategies](2.Mainstrategies.md)
 - [3. Considerations](3.Considerations.md)
