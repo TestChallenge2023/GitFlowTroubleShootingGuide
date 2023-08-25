@@ -42,7 +42,7 @@ After successfully resolving conflicts and pushing the changes, thoroughly test 
 
 ## Quick Links
 
-- [Readme](../readme.md)
+- [Readme](../README.md)
 - [1. GitFlow Introduction](Git-Flow-Introduction.md)
 - [2. Main strategies](Main-strategies.md)
 - [3. Considerations](considerations.md)

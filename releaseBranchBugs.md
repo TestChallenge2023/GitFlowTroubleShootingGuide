@@ -91,7 +91,7 @@ Implement thorough testing and quality assurance practices in the release proces
 
 ## Quick Links
 
-- [Readme](../readme.md)
+- [Readme](../README.md)
 - [1. GitFlow Introduction](Git-Flow-Introduction.md)
 - [2. Main strategies](Main-strategies.md)
 - [3. Considerations](considerations.md)

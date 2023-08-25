@@ -49,8 +49,7 @@ Before merging changes into your main/master branch, review the version number a
 
 
 ## Quick Links
-
-- [Readme](../readme.md)
+- [Readme](../README.md)
 - [1. GitFlow Introduction](Git-Flow-Introduction.md)
 - [2. Main strategies](Main-strategies.md)
 - [3. Considerations](considerations.md)
